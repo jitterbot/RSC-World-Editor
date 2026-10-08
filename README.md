@@ -1,2 +1,3 @@
 # RSC-World-Editor.
-A highly detailed easy to use RuneScape Classic world editor. Created by JitterBot and powered by OpenRSC.
+A super user friendly RuneScape Classic world editor with an in built Quest maker, NPC maker and Object editor!
+Created by JitterBot
